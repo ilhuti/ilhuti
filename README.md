@@ -2,7 +2,8 @@
 registerd email=123.ilhath@gmail.com
 project name=code with ilham
 full name=Ilham Shemsu Ali
-github url=http//github:ilhuti
+github url=github.com/ilhuti
+
 <!--
 **ilhuti/ilhuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
